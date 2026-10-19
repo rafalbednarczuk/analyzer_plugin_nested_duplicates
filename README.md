@@ -1,4 +1,5 @@
-# Analyzer plugin diagnostics are duplicated in nested packages
+# The whole minimal reproducible repository is AI generated including README
+## Analyzer plugin diagnostics are duplicated in nested packages
 
 ## Problem
 
